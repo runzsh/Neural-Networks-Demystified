@@ -1,10 +1,5 @@
 # Neural Networks Demystified
 # Part 1: Data + Architecture
-#
-# Supporting code for short YouTube series on artificial neural networks.
-#
-# Stephen Welch
-# @stephencwelch
 
 import numpy as np
 
